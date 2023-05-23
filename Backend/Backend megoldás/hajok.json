@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "jarat": "A1",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonalm\u00e1di",
+        "indul": "09:30:00",
+        "erkezik": "10:30:00"
+    },
+    {
+        "id": "2",
+        "jarat": "A2",
+        "honnan": "Balatonalm\u00e1di",
+        "hova": "Als\u00f3\u00f6rs",
+        "indul": "10:35:00",
+        "erkezik": "11:10:00"
+    },
+    {
+        "id": "3",
+        "jarat": "A2",
+        "honnan": "Als\u00f3\u00f6rs",
+        "hova": "Csopak",
+        "indul": "11:10:00",
+        "erkezik": "11:40:00"
+    },
+    {
+        "id": "4",
+        "jarat": "A2",
+        "honnan": "Csopak",
+        "hova": "Si\u00f3fok",
+        "indul": "11:40:00",
+        "erkezik": "12:20:00"
+    },
+    {
+        "id": "5",
+        "jarat": "A3",
+        "honnan": "Si\u00f3fok",
+        "hova": "Csopak",
+        "indul": "16:00:00",
+        "erkezik": "16:45:00"
+    }
+]

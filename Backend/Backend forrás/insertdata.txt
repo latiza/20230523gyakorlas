@@ -1,0 +1,5 @@
+(1, 'Orient Vita Pro 28', 284.5, 11),
+(2, 'Orient S-400 26', 198, 12),
+(3, 'Bullet Bora 20', 240.99, 4),
+(4, 'Speed king 26', 345.99, 7),
+(5, 'Speed king 26', 420.5, 14),

@@ -1,0 +1,8 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 40em auto;
+    padding: 20px
+}
+img{
+    width: 100%;
+}
